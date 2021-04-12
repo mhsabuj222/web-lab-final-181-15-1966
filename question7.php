@@ -1,5 +1,5 @@
 <?php
-$n=range(21,40);
+$n=range(11,20);
 shuffle($n);
 for ($x=0; $x< 10; $x++)
 {
